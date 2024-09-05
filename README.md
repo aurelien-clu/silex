@@ -2,9 +2,9 @@
 
 Add more 🔥 to [Apache Spark](https://spark.apache.org/)!
 
-[![CI](https://img.shields.io/github/workflow/status/rickci/silex/CI?style=flat-square)](https://github.com/RickCi/silex/actions)
+[![CI](https://img.shields.io/github/workflow/status/aurelien-clu/silex/CI?style=flat-square)](https://github.com/aurelien-clu/silex/actions)
 [![Pypi](https://img.shields.io/pypi/v/spark-silex?style=flat-square)](https://pypi.org/project/spark-silex/)
-[![License](https://img.shields.io/github/license/RickCi/silex?style=flat-square)](https://github.com/RickCi/silex/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/aurelien-clu/silex?style=flat-square)](https://github.com/aurelien-clu/silex/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python_3.8|3.9|3.10-Python?style=flat-square&logo=Python)](https://www.python.org/downloads/release/python-380/)
 ![Apache Spark](https://img.shields.io/static/v1?style=flat-square&message=Apache+Spark+%20+3&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
 
